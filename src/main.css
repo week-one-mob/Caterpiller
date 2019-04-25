@@ -1,0 +1,45 @@
+.fruit img{
+    height: 50px;
+    align-items: center;
+}
+.head {
+    height: 200px;
+    margin-right: -20px;
+}
+
+body {
+    text-align: center;
+}
+
+#caterpiller {
+    margin-top: 40px;
+}
+.part {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    margin-left: -10px;
+    border: 2px solid black;
+}
+.apple {
+    background: red;
+}
+.banana {
+    background: yellow;
+}
+.blueberry {
+    background: purple;
+}
+.cherry {
+    background: darkred;
+}
+.green-apple {
+    background: greenyellow;
+}
+.mango {
+    background: rgb(255, 183, 0);
+}
+.orange {
+    background: orange;
+}
