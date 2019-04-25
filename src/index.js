@@ -2,10 +2,10 @@
 
 //get DOM elements
 const fruitButtons = document.querySelectorAll('.fruit');
-const caterpiller = document.getElementById('caterpiller');
+const caterpillar = document.getElementById('caterpillar');
 //initialize things
 for(let i = 0; i < fruitButtons.length; i++){
-    const fruitButton = fruitButtons[i];
+    const fruitButtons = fruitButtons[i];
 
     fruitButtons.addEventListener('click', () => {
         feedCaterpillar()
